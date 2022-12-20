@@ -1,5 +1,5 @@
 # Знакомство
-[my foto] (https://nuzhnaya-infa.ru/wp-content/uploads/2015/01/primer.jpg)
+![DLY-ID.jpg](https://im.wampi.ru/2022/12/20/DLY-ID.jpg)
 * Меня зовут Алина
 * Я театральный художник
 * Я люблю путешествовать
